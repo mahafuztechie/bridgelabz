@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\Demorepo.exe
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\Demorepo.deps.json
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\Demorepo.runtimeconfig.json
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\Demorepo.dll
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\ref\Demorepo.dll
+C:\Users\dell\source\repos\Demorepo\Demorepo\bin\Debug\net6.0\Demorepo.pdb
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.AssemblyInfo.cs
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.dll
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\ref\Demorepo.dll
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.pdb
+C:\Users\dell\source\repos\Demorepo\Demorepo\obj\Debug\net6.0\Demorepo.genruntimeconfig.cache
