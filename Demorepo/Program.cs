@@ -7,7 +7,10 @@ Console.WriteLine("hi");
 Console.WriteLine("welcome");
 Console.WriteLine("how r u");
 
+/*
 FibonacciSeries fs = new FibonacciSeries();
 fs.findFibonacciSeries();
+*/
+ReverseNumber.findReverse();
 
-Console.ReadLine();
+
