@@ -19,6 +19,8 @@ user1.ReadingInputFromUser();
 
 
 Flipcoin.flipCoinPercentage();
-*/
+
 
 Factorial.findFact();
+*/
+PowerOfTwo.GetPowerOfTwo();
