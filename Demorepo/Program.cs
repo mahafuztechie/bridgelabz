@@ -19,4 +19,3 @@ user1.ReadingInputFromUser();
 */
 
 Flipcoin.flipCoinPercentage();
-
