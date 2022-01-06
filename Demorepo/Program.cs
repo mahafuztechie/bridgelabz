@@ -16,6 +16,9 @@ ReverseNumber.findReverse();
 
 ReplaceString user1 = new ReplaceString();
 user1.ReadingInputFromUser();
-*/
+
 
 Flipcoin.flipCoinPercentage();
+*/
+
+Factorial.findFact();
