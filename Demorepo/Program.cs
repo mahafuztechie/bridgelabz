@@ -10,7 +10,10 @@ Console.WriteLine("how r u");
 /*
 FibonacciSeries fs = new FibonacciSeries();
 fs.findFibonacciSeries();
-*/
-ReverseNumber.findReverse();
 
+ReverseNumber.findReverse();
+*/
+
+ReplaceString user1 = new ReplaceString();
+user1.ReadingInputFromUser();
 
