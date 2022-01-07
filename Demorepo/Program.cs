@@ -24,5 +24,7 @@ Flipcoin.flipCoinPercentage();
 Factorial.findFact();
 
 PowerOfTwo.GetPowerOfTwo();
-*/
+
 Harmonic.PrintHarmonicNumber();
+*/
+SwapTwoNum.readInputFromUser();
