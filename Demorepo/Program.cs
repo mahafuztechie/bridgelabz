@@ -1,13 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Demorepo;
-
+/*
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello");
 Console.WriteLine("hi");
 Console.WriteLine("welcome");
 Console.WriteLine("how r u");
 
-/*
+
 FibonacciSeries fs = new FibonacciSeries();
 fs.findFibonacciSeries();
 
@@ -26,5 +26,18 @@ Factorial.findFact();
 PowerOfTwo.GetPowerOfTwo();
 
 Harmonic.PrintHarmonicNumber();
-*/
+
 SwapTwoNum.readInputFromUser();
+
+LeapYear.CalculateLeapYear();
+
+EvenOrOdd.findEvenOrOdd();
+
+
+QuotientAndRemainder.FindQuotientAndRemainder();
+
+
+VowelsAndConsonants.FindVowelOrConsonant();
+*/
+
+LargestOfThree.FindLargestOfThree();
